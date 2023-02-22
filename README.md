@@ -45,4 +45,4 @@ When we tried batch normalisation and augmentation, the results were quite posit
 - tensorFlow v2.11.0
 
 ## Contact
-Created by [Kishore Kandukuri]-feel free to contact me!
+Created by [Anand Joshi]-feel free to contact me!
