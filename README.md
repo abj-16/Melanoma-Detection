@@ -41,8 +41,8 @@ When we tried batch normalisation and augmentation, the results were quite posit
 
 ## Technologies Used
 
-- jupyter_client - 7.3.5
-- tensorFlow v2.11.0
+- jupyter_client
+- tensorFlow
 
 ## Contact
 Created by [Anand Joshi]-feel free to contact me!
